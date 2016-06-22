@@ -1,0 +1,9 @@
+/Users/ilyas/Downloads/MvvmCross-Samples-master/XPlatformMenus/XPlatformMenus.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/ilyas/Downloads/MvvmCross-Samples-master/XPlatformMenus/XPlatformMenus.Core/bin/Debug/XPlatformMenus.Core.dll.mdb
+/Users/ilyas/Downloads/MvvmCross-Samples-master/XPlatformMenus/XPlatformMenus.Core/bin/Debug/XPlatformMenus.Core.dll
+/Users/ilyas/Downloads/MvvmCross-Samples-master/XPlatformMenus/XPlatformMenus.Core/obj/Debug/XPlatformMenus.Core.dll
+/Users/ilyas/Downloads/MvvmCross-Samples-master/XPlatformMenus/XPlatformMenus.Core/obj/Debug/XPlatformMenus.Core.dll.mdb
+/Users/ilyas/Downloads/MvvmCross-Samples-master/XPlatformMenus/XPlatformMenus.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/ilyas/Downloads/MvvmCross-Samples-master/XPlatformMenus/XPlatformMenus.Core/bin/Debug/MvvmCross.Core.dll
+/Users/ilyas/Downloads/MvvmCross-Samples-master/XPlatformMenus/XPlatformMenus.Core/bin/Debug/MvvmCross.Binding.dll
+/Users/ilyas/Downloads/MvvmCross-Samples-master/XPlatformMenus/XPlatformMenus.Core/bin/Debug/MvvmCross.Localization.dll

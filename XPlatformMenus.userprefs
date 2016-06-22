@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="XPlatformMenus.Droid/XPlatformMenus.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 10 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XPlatformMenus.Droid/Fragments/Home/HomeFragment.cs">
+    <Files>
+      <File FileName="XPlatformMenus.Droid/Activities/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="XPlatformMenus.Droid/Activities/LoginActivity.cs" Line="1" Column="1" />
+      <File FileName="XPlatformMenus.Core/ViewModels/Settings/SettingsViewModel.cs" Line="1" Column="1" />
+      <File FileName="XPlatformMenus.Droid/Fragments/Settings/SettingsFragment.cs" Line="20" Column="10" />
+      <File FileName="XPlatformMenus.Droid/Fragments/Home/ThirdFragment.cs" Line="1" Column="1" />
+      <File FileName="XPlatformMenus.Droid/Fragments/Home/InfoFragment.cs" Line="1" Column="1" />
+      <File FileName="XPlatformMenus.Droid/Fragments/Home/HomeFragment.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Desktop/Geosteer/DecisionSpaceGeosteeringApp/DSGeosteering/DSGeosteering.iOS/AboutViewController.cs" line="41" offsetX="164" offsetY="688" expression="contacts" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.XPlatformMenus.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
